@@ -157,7 +157,7 @@ function App() {
       <main>
         <header className="topbar">
           <button className="mobile-menu" onClick={() => setMenuOpen(v => !v)}><Menu size={20} /></button>
-          <div className="breadcrumb"><span>Northstar Learning Studio</span><ChevronRight size={14} /><strong>{screen}</strong></div>
+          <div className="breadcrumb"><span>ZeroLimit</span><ChevronRight size={14} /><strong>{screen}</strong></div>
           <div className="top-actions">
             <button className="guided-btn" onClick={() => { setGuided(true); setGuideStep(0); navigate('Command Center') }}><Play size={15} /> Start Guided Demo</button>
             <button className="icon-btn"><Search size={17} /></button>

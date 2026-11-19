@@ -1,6 +1,6 @@
 # Synqra
 
-Synqra - “Keep work moving. Even when plans change.” — is an interactive humanAI workforce coordination prototype for the fictional Northstar Learning Studio.
+Synqra — “Keep work moving. Even when plans change.” — is an interactive human-AI workforce coordination prototype for ZeroLimit.
 
 ## Run locally
 
